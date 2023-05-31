@@ -4,7 +4,7 @@
 
 ### Control Flow Graph
 
-![Example Image](./CFG for function labs2 SI.png)
+![CFG for function labs2 SI](./CFG for function labs2 SI.png)
 
 ### Цикломатска комплексност
 
